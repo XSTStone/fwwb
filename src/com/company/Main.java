@@ -36,7 +36,7 @@ public class Main {
     static ArrayList<Car> cars = new ArrayList<Car>();
 
     public static void main(String[] args) throws IOException {
-//        test();
+        setPoints();
     }
 
     public static void setPoints() {

@@ -28,7 +28,7 @@ public abstract class Point {
         System.out.print(pointTips[index]);
     }
 
-    public static Point getPoint(int index) {
+    public static com.company.Point getPoint(int index) {
         return points.get(index);
     }
 
